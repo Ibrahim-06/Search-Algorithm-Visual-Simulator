@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/74bbe1c0-1bfe-4b8a-b9c6-445021b85488
 
 ## 🌐 Live Demo
 Try the live version via GitHub Pages:  
-➡ [Live Project](https://your_github_ibrahim-06.github.io/Search-Algorithm-Visual-Simulator)
+➡ [Live Project](https://ibrahim-06.github.io/Search-Algorithm-Visual-Simulator/)
 
 ## 🚀 Features
 - Visual simulation for Brute Force and Binary Search
