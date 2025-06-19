@@ -32,12 +32,14 @@ Try the live version via GitHub Pages:
 4. Click the *Start* button.
 5. Watch the algorithm work step-by-step!
 
-## 📂 Project Structure
-search-visual-web/
-├── index.html         ← Main HTML file
-├── style.css          ← CSS styling
-├── script.js          ← JavaScript logic
-└── README.md          ← Project documentation
+## 📁 Project Structure
+
+| File Name         | Description                        |
+|-------------------|------------------------------------|
+| index.html        | Main HTML file                     |
+| style.css         | CSS styling                        |
+| script.js         | JavaScript logic                   |
+| README.md         | Project documentation              |
 
 ## 🤝 Contributing
 Want to improve this project? You're welcome to contribute!
